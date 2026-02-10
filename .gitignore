@@ -1,0 +1,25 @@
+# === Private Info (NEVER UPLOAD) ===
+.env
+
+# === Python Junk ===
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.venv/
+env/
+venv/
+
+# === OS Junk ===
+.DS_Store
+Thumbs.db
+
+# === Large Image Files (Optional) ===
+# It is better to upload sample images manually to GitHub 
+# rather than syncing your entire 'input' folder.
+input/
+*_midas/
+*.cr2
+*.nef
+*.arw
+*.dng

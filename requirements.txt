@@ -1,0 +1,6 @@
+google-genai
+rawpy
+numpy
+opencv-python
+Pillow
+python-dotenv
